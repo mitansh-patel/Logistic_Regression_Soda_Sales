@@ -1,4 +1,4 @@
-libname HW4 'C:\Users\mmb190001\Hw4';
+libname HW4 'C:\Users\xyz\Hw4';
 run;
 
 /*1*/
